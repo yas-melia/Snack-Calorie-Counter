@@ -26,5 +26,5 @@ YOLOv11n with 100 epoch, the best model got:
 | mAP50-95    | 0.93  |
 
 # 💻 Behind This Project
-This project was crafted ahead of Valentine's Day to help everyone enjoy chocolate more wisely —  
+This project was crafted ahead of Valentine's Day to help everyone enjoy chocolate more wisely
 built with Python and powered by YOLO for real-time snack detection 🍫
