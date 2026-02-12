@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Media/Illustration.png" width="600">
+</p>
+
 # 🍫 Snack-Calorie-Counter
 Computer Vision project to detect Indonesian sweets using YOLOv11. Created ahead of Valentine’s Day to prevent excessive calorie intake.
 
@@ -25,6 +29,11 @@ YOLOv11n with 100 epoch, the best model got:
 | Precission  | 0.96  |
 | mAP50-95    | 0.93  |
 
+# 📸 Detection Preview
+<p align="center">
+  <img src="Media/Illustration2.jpg" width="600">
+</p>
+
 # 💻 Behind This Project
 This project was crafted ahead of Valentine's Day to help everyone enjoy chocolate more wisely
-built with Python and powered by YOLO for real-time snack detection 🍫
+built with Python and powered by YOLO for real-time snack detection!
